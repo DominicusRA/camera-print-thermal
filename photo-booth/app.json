@@ -16,7 +16,8 @@
         "foregroundImage": "./assets/images/LogoSeoulBunsik.png",
         "backgroundColor": "#ffd300"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "permissions": ["CAMERA"]
     },
     "web": {
       "bundler": "metro",
